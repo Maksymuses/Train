@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class SpawnRails_new : MonoBehaviour {
+public class SpawnRails : MonoBehaviour {
 
     public GameObject rail;
     public GameObject rail2;
